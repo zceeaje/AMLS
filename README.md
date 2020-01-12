@@ -17,4 +17,4 @@ The final codes are named and can be run individually:
 
 However, the whole project can be ran from main.py, which imports the files A1, A2, B1 and B2 python files
 
-There are also other codes caontaining feature extraction tool that were used for experiment purposes.
+There are also other codes containing feature extraction tool that were used for experiment purposes.
